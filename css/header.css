@@ -1,0 +1,17 @@
+.wide {
+  width: 30%;
+  height: 10%;
+  background-image: url("/img/creative/alligator-logo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+position: absolute;
+float: left;}
+
+#mapid2 {
+    height: 450px; 
+    width: 55%;
+    margin: auto;
+    display: block;
+}
+
+
